@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algo_Segment_Tree.h" />
+    <ClInclude Include="CF_WOUT.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
   <ItemGroup>

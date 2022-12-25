@@ -26,26 +26,11 @@ void  run ( ) {
 template <typename A> ostream& operator<< ( ostream& cout, vector<A> const& v ) { cout << "["; for ( int i = 0; i < v.size ( ); i++ ) { if ( i ) cout << ", "; cout << v[i] << '\t'; } return cout << "]\n"; }
 
 
-
-int n, h;
-vi li, hi;
-
-
 int main ( ) {
 	run ( );
 	int q;
 	cin >> q;
 	while ( q-- ) {
-		cin >> n >> h;
-
-		li.clear ( ); li.resize ( n );
-		hi.clear ( ); hi.resize ( n );
-
-		loopi ( i, 0, n ) {
-			cin >> li[i] >> hi[i];
-		}
-		sort ( li.begin ( ), li.end ( ) );
-		sort ( hi.begin ( ), hi.end ( ) );
 
 
 	}
