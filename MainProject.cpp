@@ -37,6 +37,7 @@ int main ( ) {
 	cin >> q;
 	while ( q-- ) {
 		cin >> n >> h;
+
 		li.clear ( ); li.resize ( n );
 		hi.clear ( ); hi.resize ( n );
 
