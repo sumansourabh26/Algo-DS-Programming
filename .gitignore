@@ -364,3 +364,6 @@ FodyWeavers.xsd
 /myfile.txt
 /outfile.txt
 /a.out
+/MainProject.cpp
+/MainProject.vcxproj
+/MainProject.vcxproj.filters
