@@ -367,3 +367,5 @@ FodyWeavers.xsd
 /MainProject.cpp
 /MainProject.vcxproj
 /MainProject.vcxproj.filters
+.vscode/settings.json
+in
