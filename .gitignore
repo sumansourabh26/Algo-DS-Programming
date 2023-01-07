@@ -369,3 +369,10 @@ FodyWeavers.xsd
 /MainProject.vcxproj.filters
 .vscode/settings.json
 in
+CC/out
+CC/a.out
+.vscode/c_cpp_properties.json
+CF/a.out
+.gitignore
+CF/out
+GFG/a.out

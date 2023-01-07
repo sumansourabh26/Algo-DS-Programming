@@ -1,12 +1,6 @@
 #pragma once
 
-#include <iostream>
-#include <vector>
-#include <fstream> 
-#include <iterator>
-#include <cmath>
-#include <deque>
-#include <algorithm> 
+#include <bits/stdc++.h>
 
 using namespace std;
 
