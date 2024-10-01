@@ -7,6 +7,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
 ## String
@@ -22,6 +23,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0011-container-with-most-water) |
 ## Two Pointers
 |  |
