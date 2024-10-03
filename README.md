@@ -34,6 +34,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0011-container-with-most-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -48,4 +49,8 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0015-3sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
