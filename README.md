@@ -14,6 +14,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -40,6 +41,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0027-remove-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +65,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
