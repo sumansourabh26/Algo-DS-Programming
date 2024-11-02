@@ -25,5 +25,4 @@ class Solution:
                     ans[r][c] = 0
                 c+=1
             r+=1
-        print(ans)
         return ans[row-1][column-1]
