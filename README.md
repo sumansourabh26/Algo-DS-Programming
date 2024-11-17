@@ -14,6 +14,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -36,6 +37,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
@@ -65,6 +67,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0072-edit-distance) |
