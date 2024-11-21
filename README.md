@@ -9,12 +9,14 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0001-two-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -31,6 +33,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0015-3sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -59,6 +62,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0015-3sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
