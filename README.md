@@ -38,6 +38,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0063-unique-paths-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -131,4 +132,8 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
