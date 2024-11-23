@@ -13,9 +13,12 @@ class Solution:
         # left_max[0] = 0
         right_max[length-1] = 0
 
-        for i in range(1, length):
+        # for i in range(, -1, -1):
+        i = length-2
+        while ( i >= 0):
             # left_max[i] = int(max(left_max[i-1], height[i-1]))
-            right_max[length-1 - i] = (max(right_max[length- i], height[length- i]))
+            right_max[i] = (max(right_max[i+1], height[i+1]))
+            i-=1
         
         water = 0
         left_max = height[0]
