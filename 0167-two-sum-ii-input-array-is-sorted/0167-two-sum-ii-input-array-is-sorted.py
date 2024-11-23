@@ -19,12 +19,13 @@ class Solution:
 
 		while l < r:
 			_sum  = numbers[l] + numbers[r]
-			if _sum == target:
-				return [l+1, r+1]
-			elif _sum < target:
+
+			if _sum < target:
 				l += 1
-			else:
+			elif _sum > target:
 				r -= 1
+			else :
+				return [l+1, r+1]                
 		return []
 
 
