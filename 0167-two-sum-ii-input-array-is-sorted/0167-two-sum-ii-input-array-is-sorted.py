@@ -1,3 +1,10 @@
+#
+# @lc app=leetcode id=167 lang=python3
+#
+# [167] Two Sum II - Input Array Is Sorted
+#
+
+# @lc code=start
 
 from typing import List
 
@@ -23,3 +30,5 @@ class Solution:
 
 				
 		
+# @lc code=end
+
