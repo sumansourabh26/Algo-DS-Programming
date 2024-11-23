@@ -35,6 +35,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0015-3sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
@@ -78,6 +80,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0072-edit-distance) |
@@ -142,4 +145,12 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
