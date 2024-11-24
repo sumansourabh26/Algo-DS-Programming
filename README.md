@@ -13,6 +13,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -22,11 +23,13 @@ This project tracks my Algo and DS practice on various websites.
 | [0072-edit-distance](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +59,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0061-rotate-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
