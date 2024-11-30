@@ -46,6 +46,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0063-unique-paths-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +105,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0062-unique-paths](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -156,6 +158,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
