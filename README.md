@@ -20,6 +20,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0076-minimum-window-substring) |
@@ -88,6 +89,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0063-unique-paths-ii) |
@@ -163,4 +165,8 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
