@@ -54,6 +54,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0074-search-a-2d-matrix](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
