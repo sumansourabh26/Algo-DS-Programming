@@ -1,19 +1,16 @@
-def search_binary(left, right, nums, target):
-    
-    
-    mid = (left+right) >> 1 # mid 
-    if(nums[mid] == target) : return mid
-    
-    if(left >= right ) : return (-1)
-    if(nums[mid] > target):
-        return(search_binary(left, mid, nums, target))
-    else:
-        return(search_binary(mid+1, right, nums, target))
-
-
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
 
-        return search_binary(0, len(nums)-1, nums, target)
+        l, r = 0, len(nums)-1
+        while(l < r):
+            mid = l + (r-l)//2
+            if(target <= nums[mid] ):
+                r = mid
+            else:
+                l = mid+1
+        if(nums[l] == target):
+            return l
+        else:
+            return -1
         
