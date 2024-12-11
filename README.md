@@ -56,6 +56,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0739-daily-temperatures](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1127-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -90,6 +91,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0062-unique-paths](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -146,11 +149,13 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -164,6 +169,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -195,4 +201,8 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
