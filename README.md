@@ -56,6 +56,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0739-daily-temperatures](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0907-koko-eating-bananas) |
+| [1127-last-stone-weight](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1127-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
