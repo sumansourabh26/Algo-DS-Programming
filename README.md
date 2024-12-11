@@ -70,6 +70,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
 ## Greedy
@@ -90,6 +91,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0015-3sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
@@ -153,6 +155,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
@@ -196,10 +199,12 @@ This project tracks my Algo and DS practice on various websites.
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
