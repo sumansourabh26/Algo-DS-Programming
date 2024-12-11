@@ -130,14 +130,17 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +149,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -181,4 +185,12 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
