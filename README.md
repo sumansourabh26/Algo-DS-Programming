@@ -27,6 +27,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0295-find-median-from-data-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0198-house-robber](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
