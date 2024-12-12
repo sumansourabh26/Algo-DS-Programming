@@ -43,6 +43,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0074-search-a-2d-matrix) |
@@ -198,6 +199,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0078-subsets) |
 ## Design
 |  |
