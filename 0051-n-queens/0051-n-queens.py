@@ -1,24 +1,15 @@
 def is_valid(position):
     count = len(position)
-    for i in range(count):
-        for j in range(count):
-            if(i == j): continue
-            if(position[i][0] == position[j][0]) : return False
-            if(position[i][1] == position[j][1]) : return False
-            if(abs(position[i][0] - position[j][0]) == \
-            abs (position[i][1] - position[j][1]) ) : return False
+    i = count-1
+    for j in range(count-1):
+        if(i == j): continue
+        if(position[i][0] == position[j][0]) : return False
+        if(position[i][1] == position[j][1]) : return False
+        if(abs(position[i][0] - position[j][0]) == \
+        abs (position[i][1] - position[j][1]) ) : return False
     return True
 
-default_pos = [
-    "Q.......",
-    ".Q......",
-    "..Q.....",
-    "...Q....",
-    "....Q...",
-    ".....Q..",
-    "......Q.",
-    ".......Q"
-]
+
 
 def bt(position, row, ans, n):
     if(not is_valid(position)) : return
