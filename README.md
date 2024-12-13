@@ -64,6 +64,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0238-product-of-array-except-self](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0907-koko-eating-bananas) |
@@ -128,6 +129,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0322-coin-change](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
