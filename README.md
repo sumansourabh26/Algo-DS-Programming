@@ -55,6 +55,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0090-subsets-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0152-maximum-product-subarray) |
@@ -136,6 +137,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0078-subsets](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0338-counting-bits) |
 ## Math
 |  |
