@@ -138,6 +138,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0078-subsets](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0338-counting-bits) |
 ## Math
 |  |
@@ -173,6 +174,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
