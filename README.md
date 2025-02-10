@@ -30,6 +30,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0647-palindromic-substrings) |
+| [3447-clear-digits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +213,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0042-trapping-rain-water](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0739-daily-temperatures) |
+| [3447-clear-digits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,4 +253,8 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
