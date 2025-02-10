@@ -16,6 +16,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
+| [1364-tuple-with-same-product](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -73,6 +74,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0907-koko-eating-bananas](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1127-last-stone-weight) |
+| [1364-tuple-with-same-product](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/2448-count-number-of-bad-pairs) |
 ## Two Pointers
 |  |
@@ -197,6 +199,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/2448-count-number-of-bad-pairs) |
 ## Quickselect
 |  |
