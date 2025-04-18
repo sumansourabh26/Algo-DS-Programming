@@ -66,6 +66,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0416-partition-equal-subset-sum) |
@@ -102,6 +103,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0074-search-a-2d-matrix](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0907-koko-eating-bananas) |
 ## Sorting
@@ -132,6 +134,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0139-word-break](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
