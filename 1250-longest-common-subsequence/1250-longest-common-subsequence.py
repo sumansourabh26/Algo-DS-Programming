@@ -3,12 +3,12 @@ class Solution:
 
         l1, l2  = len(text1), len(text2)
 
-        lcs = [ [None]* (l2+1) for i in range(l1+1)]
+        lcs = [ [0]* (l2+1) for i in range(l1+1)]
         
-        lcs[0] = [0] * (l2+1)
+        # lcs[0] = [0] * (l2+1)
 
-        for row in lcs:
-            row[0] = 0
+        # for row in lcs:
+        #     row[0] = 0
         
         for r in range(1, l1+1) : 
 
