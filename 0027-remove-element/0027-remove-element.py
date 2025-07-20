@@ -1,26 +1,13 @@
-from typing import List
-
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        l = 0
         r = len(nums)-1
+        i = 0
         
-        while(l <= r):
-            
-            if(nums[r] == val):
-                r -= 1
-                continue
-
-            if(nums[l] == val):
-                nums[l] = nums[r]
-                r -= 1
-            l += 1
-
-        return (r+1)
-
-            
-
-
-
-
-        
+        while(i <= r) : 
+            if(nums[i] == val) : 
+                nums[i] = nums[r]
+                nums[r] = 0
+                r -=1
+            else:
+                i+=1
+        return r+1
