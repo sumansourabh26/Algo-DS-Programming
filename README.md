@@ -15,6 +15,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
 | [1364-tuple-with-same-product](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1364-tuple-with-same-product) |
@@ -30,6 +31,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0076-minimum-window-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
@@ -215,6 +217,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0383-ransom-note) |
 | [1364-tuple-with-same-product](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/2448-count-number-of-bad-pairs) |
 ## Quickselect
