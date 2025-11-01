@@ -14,6 +14,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0076-minimum-window-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0424-longest-repeating-character-replacement) |
@@ -73,6 +74,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0152-maximum-product-subarray](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0238-product-of-array-except-self) |
@@ -127,6 +129,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0016-3sum-closest](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
@@ -200,6 +203,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
@@ -218,6 +222,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0383-ransom-note) |
 | [1364-tuple-with-same-product](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1364-tuple-with-same-product) |
