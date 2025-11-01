@@ -28,6 +28,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0005-longest-palindromic-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0125-valid-palindrome) |
