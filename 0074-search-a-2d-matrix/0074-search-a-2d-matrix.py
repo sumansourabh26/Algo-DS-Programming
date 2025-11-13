@@ -1,22 +1,29 @@
-def search_binary(left, right, nums, target, cols):
-    
-    
-    mid = (left+right) >> 1 # mid 
-    if(nums[mid//cols][mid%cols] == target) : return (True)
-    
-    if(left >= right ) : return (False)
-    if(nums[mid//cols][mid%cols] > target):
-        return(search_binary(left, mid, nums, target, cols))
-    else:
-        return(search_binary(mid+1, right, nums, target, cols))
-
-
-
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        rows = len(matrix)
-        cols = len(matrix[0])
+        
+        r,c = len(matrix), len(matrix[0])
+        # find row first
+        low, high = 0, r-1
 
-        return search_binary(0, rows*cols-1, matrix, target, cols)
+        while(low <= high):
+            mid = int((low+high)/2)
+
+            mid_value = matrix[mid][0]
+            if(mid_value == target) : return True
+            elif(mid_value < target) : low = mid + 1
+            else : high = mid -1
+        
+        candidate_row = high
+
+        low, high = 0, c-1
+
+        while(low <= high):
+            mid = int((low+high)/2)
+
+            mid_value = matrix[candidate_row][mid]
+            if(mid_value == target) : return True
+            elif(mid_value < target) : low = mid + 1
+            else : high = mid -1
+        return False
 
         
