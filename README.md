@@ -77,6 +77,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0198-house-robber) |
@@ -122,6 +123,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0035-search-insert-position](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0300-longest-increasing-subsequence) |
