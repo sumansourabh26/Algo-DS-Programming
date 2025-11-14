@@ -1,13 +1,14 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        
-        coin_needed = [-1] * (amount+1)
-        coin_needed[0] = 0
 
-        for i in range(1, amount+1):
-            coin_needed[i] = 1000000000
-            for coin in coins:
-                if (i - coin) >= 0 : 
-                    coin_needed[i] = min(coin_needed[i], coin_needed[i-coin] + 1)
+        min_change = [float('inf')]*(amount+1)
+        min_change[0] = 0
         
-        return(coin_needed[amount] if (coin_needed[amount] != 1000000000) else -1)
+        for i in range(1,amount+1):
+                
+            for c in coins:
+                if((i-c) >= 0):
+                    min_change[i] = min(min_change[i], min_change[i-c] + 1)
+
+        return -1 if (min_change[amount] == float('inf') )else (min_change[amount])
+        
