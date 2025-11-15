@@ -12,6 +12,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0036-valid-sudoku](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
@@ -72,6 +73,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0078-subsets](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0136-single-number) |
@@ -200,6 +202,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -210,10 +213,12 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
