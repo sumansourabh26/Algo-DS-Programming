@@ -4,14 +4,21 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Solution:
+
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
+        self.loc = {item:i for i, item in enumerate(inorder)}
+        return self.buildTreeH(inorder, postorder)
+        
+    
+    def buildTreeH(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
 
         if not inorder or not postorder:
             return None
         
         node = TreeNode(postorder[-1])
-        index = inorder.index(postorder[-1])
+        index = self.loc[postorder[-1]]
 
         node.left = self.buildTree(
             inorder[0:index],
