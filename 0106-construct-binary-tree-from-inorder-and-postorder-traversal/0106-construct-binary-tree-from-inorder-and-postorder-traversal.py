@@ -9,24 +9,28 @@ class Solution:
 
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
         self.loc = {item:i for i, item in enumerate(inorder)}
-        return self.buildTreeH(inorder, postorder)
+        return self.buildTreeH(inorder, postorder, (0, len(inorder)-1), (0, len(inorder)-1))
         
     
-    def buildTreeH(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
+    def buildTreeH(self, inorder: List[int], postorder: List[int], ino, po) -> Optional[TreeNode]:
 
-        if not inorder or not postorder:
+        if (ino[0]>ino[1]) or (po[0]>po[1]):
             return None
         
-        node = TreeNode(postorder[-1])
-        index = self.loc[postorder[-1]]
+        node = TreeNode(postorder[po[1]])
+        index = self.loc[postorder[po[1]]]
 
-        node.left = self.buildTree(
-            inorder[0:index],
-            postorder[0:index]
+        node.left = self.buildTreeH(
+            inorder,
+            postorder,
+            (ino[0],index-1),
+            (po[0], po[0] + index-ino[0]-1)
         )
-        node.right = self.buildTree(
-            inorder[index+1:],
-            postorder[index:-1]
+        node.right = self.buildTreeH(
+            inorder,
+            postorder,
+            (index+1,ino[1]),
+            (po[0] + index-ino[0], po[1]-1)
         )
         return node
 
