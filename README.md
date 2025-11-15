@@ -151,6 +151,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0061-rotate-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +204,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -214,6 +216,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
@@ -294,6 +297,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -307,4 +311,8 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/3447-clear-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
