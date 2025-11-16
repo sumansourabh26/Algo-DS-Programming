@@ -88,6 +88,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0209-minimum-size-subarray-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0416-partition-equal-subset-sum) |
@@ -230,6 +231,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -290,6 +292,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -325,4 +328,12 @@ This project tracks my Algo and DS practice on various websites.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0199-binary-tree-right-side-view) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
