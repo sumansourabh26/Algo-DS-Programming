@@ -42,6 +42,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0567-permutation-in-string](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1250-longest-common-subsequence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3447-clear-digits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -189,6 +190,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2448-count-number-of-bad-pairs](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/2448-count-number-of-bad-pairs) |
 ## Combinatorics
 |  |
