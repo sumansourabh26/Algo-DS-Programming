@@ -15,4 +15,6 @@ class Solution:
         
         if current_fuel < 0 : return -1
 
-        return (min_index + 1)%len(gas)
+        if (min_index+1) == len(gas) : 
+            return 0
+        return (min_index + 1)
