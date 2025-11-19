@@ -1,6 +1,7 @@
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
-        
+        if sum(gas) < sum(cost):
+            return -1
         min_index = None
         min_value = float('inf')
 
@@ -13,7 +14,6 @@ class Solution:
                 min_index = i
                 min_value = current_fuel
         
-        if current_fuel < 0 : return -1
 
         if (min_index+1) == len(gas) : 
             return 0
