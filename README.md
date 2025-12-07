@@ -12,6 +12,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0036-valid-sudoku](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0139-word-break) |
@@ -76,6 +77,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0078-subsets](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0128-longest-consecutive-sequence) |
@@ -216,6 +218,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -231,6 +234,7 @@ This project tracks my Algo and DS practice on various websites.
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -239,6 +243,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0191-number-of-1-bits) |
