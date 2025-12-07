@@ -201,6 +201,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1014-k-closest-points-to-origin) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2448-count-number-of-bad-pairs](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/2448-count-number-of-bad-pairs) |
 ## Combinatorics
