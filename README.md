@@ -224,11 +224,13 @@ This project tracks my Algo and DS practice on various websites.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
@@ -240,6 +242,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
@@ -345,6 +348,7 @@ This project tracks my Algo and DS practice on various websites.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Indexed Tree
 |  |
 | ------- |
