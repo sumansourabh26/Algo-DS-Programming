@@ -218,6 +218,7 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -230,12 +231,14 @@ This project tracks my Algo and DS practice on various websites.
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -345,6 +348,7 @@ This project tracks my Algo and DS practice on various websites.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/sumansourabh26/Algo-DS-Programming/tree/master/0199-binary-tree-right-side-view) |
