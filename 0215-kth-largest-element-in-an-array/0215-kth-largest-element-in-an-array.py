@@ -27,9 +27,9 @@ class MinHeap:
             minimum = index
             left = index*2 + 1
             right = index*2 + 2
-            if(left < len(self.data) and (self.data[left] < self.data[minimum])) :
+            if(left < len(self.data) and (self.data[left] > self.data[minimum])) :
                 minimum = left
-            if(right < len(self.data) and (self.data[right] < self.data[minimum])) :
+            if(right < len(self.data) and (self.data[right] > self.data[minimum])) :
                 minimum = right
             if(index == minimum) : 
                 break
@@ -49,9 +49,9 @@ class MinHeap:
                 minimum = index
                 left = index*2 + 1
                 right = index*2 + 2
-                if(left < len(self.data) and (self.data[left] < self.data[minimum])) :
+                if(left < len(self.data) and (self.data[left] > self.data[minimum])) :
                     minimum = left
-                if(right < len(self.data) and (self.data[right] < self.data[minimum])) :
+                if(right < len(self.data) and (self.data[right] > self.data[minimum])) :
                     minimum = right
                 if(index == minimum) : 
                     break
@@ -63,7 +63,7 @@ class MinHeap:
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         
-        nums = [-1*n for n in nums]
+        # nums = [-1*n for n in nums]
         heap = MinHeap()
         heap.heapify(nums)
             
@@ -72,7 +72,7 @@ class Solution:
         while(k:=(k-1)) : 
             heap.pop()
         
-        return -heap.pop()
+        return heap.pop()
         
 
 # Solution().findKthLargest([3,2,1,5,6,4], 2)
