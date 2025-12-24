@@ -1,7 +1,7 @@
 from typing import List
 class MinHeap:
     def __init__(self):
-        self.data = None
+        self.data = []
     
     def push(self, element) : 
         self.data.append(element)
@@ -27,9 +27,9 @@ class MinHeap:
             minimum = index
             left = index*2 + 1
             right = index*2 + 2
-            if(left < len(self.data) and (self.data[left] > self.data[minimum])) :
+            if(left < len(self.data) and (self.data[left] < self.data[minimum])) :
                 minimum = left
-            if(right < len(self.data) and (self.data[right] > self.data[minimum])) :
+            if(right < len(self.data) and (self.data[right] < self.data[minimum])) :
                 minimum = right
             if(index == minimum) : 
                 break
@@ -49,30 +49,31 @@ class MinHeap:
                 minimum = index
                 left = index*2 + 1
                 right = index*2 + 2
-                if(left < len(self.data) and (self.data[left] > self.data[minimum])) :
+                if(left < len(self.data) and (self.data[left] < self.data[minimum])) :
                     minimum = left
-                if(right < len(self.data) and (self.data[right] > self.data[minimum])) :
+                if(right < len(self.data) and (self.data[right] < self.data[minimum])) :
                     minimum = right
                 if(index == minimum) : 
                     break
                 self.data[index], self.data[minimum] = self.data[minimum], self.data[index]
                 index = minimum   
+    def peak(self):
+        return(self.data[0])
         
         
     
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        
-        # nums = [-1*n for n in nums]
         heap = MinHeap()
-        heap.heapify(nums)
+        for i in range(0, k) : 
+            heap.push(nums[i])    
             
-        # print(heap.data)
+        for i in range(k, len(nums)) : 
+            if(heap.peak() < nums[i]) : 
+                heap.pop()
+                heap.push(nums[i])       
+        return(heap.peak())  
 
-        while(k:=(k-1)) : 
-            heap.pop()
-        
-        return heap.pop()
         
 
 # Solution().findKthLargest([3,2,1,5,6,4], 2)
