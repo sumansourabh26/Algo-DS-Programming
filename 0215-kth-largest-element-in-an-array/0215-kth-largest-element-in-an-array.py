@@ -1,7 +1,7 @@
 from typing import List
 class MinHeap:
     def __init__(self):
-        self.data = []
+        self.data = None
     
     def push(self, element) : 
         self.data.append(element)
