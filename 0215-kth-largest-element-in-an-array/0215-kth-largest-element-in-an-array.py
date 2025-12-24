@@ -1,3 +1,4 @@
+from typing import List
 class MinHeap:
     def __init__(self):
         self.data = []
@@ -14,7 +15,6 @@ class MinHeap:
             else:
                 break
 
-    
     def pop(self):
         ans = self.data[0]
         self.data[0] = self.data[-1]
@@ -38,12 +38,34 @@ class MinHeap:
             
         return ans     
 
+    def heapify(self, arr: List[int]) :
+        self.data = arr
+        init_index = (len(arr)-2)//2
+        
+        for i in range(init_index, -1, -1): 
+            
+            index = i
+            while(index < len(self.data)) : 
+                minimum = index
+                left = index*2 + 1
+                right = index*2 + 2
+                if(left < len(self.data) and (self.data[left] < self.data[minimum])) :
+                    minimum = left
+                if(right < len(self.data) and (self.data[right] < self.data[minimum])) :
+                    minimum = right
+                if(index == minimum) : 
+                    break
+                self.data[index], self.data[minimum] = self.data[minimum], self.data[index]
+                index = minimum   
+        
+        
+    
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-
+        
+        nums = [-1*n for n in nums]
         heap = MinHeap()
-        for num in nums : 
-            heap.push(-num)
+        heap.heapify(nums)
             
         # print(heap.data)
 
